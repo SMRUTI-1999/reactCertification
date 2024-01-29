@@ -1,0 +1,13 @@
+.navItems li{
+    padding: 0px 10px;
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: 500;
+}
+.navItems li:hover{
+    cursor: pointer;
+}
+.active{
+    color:#20b883;
+    border-bottom: 1px soild #20b883;
+}
